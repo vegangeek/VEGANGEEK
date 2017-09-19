@@ -1,1 +1,1 @@
-﻿Creatin menu system for WPF apps
+﻿Creating menu system for WPF apps
